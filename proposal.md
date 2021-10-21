@@ -3,7 +3,7 @@
 
 ### Design:
 
-A company faces bankruptcy when they are unable to pay off their debts. Before a company actually filing bankruptcy, many of the signs will reflect on the financial ratios. This projects aims to build a bankruptcy prediction model based on the data from Taiwan Economic Journal. It listed over 900 companies  including the details of company numerical attributes that may help understand the possibility of bankruptcy.
+A company faces bankruptcy when they are unable to pay off their debts. Before a company actually filing bankruptcy, many of the signs will reflect on the financial ratios. This projects aims to build a bankruptcy prediction model based on the data from Taiwan Economic Journal. Taiwan Stock exchange has around 800-900 listed companies, the data used for analysis provides details of company numerical attributes that may help understand the possibility of bankruptcy from 1999 to 2009. 
 Also, I am interested in applying the model on the SP500 company data and analyzing the possibility of whether the company would face high probability of bankruptcy. 
 
 ### Summary:
