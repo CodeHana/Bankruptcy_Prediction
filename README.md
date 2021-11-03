@@ -1,1 +1,1 @@
-# Classification_Topic: Company Bankruptcy Prediction
+# Classification_Topic
